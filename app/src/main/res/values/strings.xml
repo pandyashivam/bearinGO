@@ -1,0 +1,290 @@
+<resources>
+    <string name="app_name">bearinGO</string>
+    <string name="BBox">BearingBox</string>
+    <string name="search">SearchBox</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="txt1">Deep Groove</string>
+    <string name="txt2">Angular Contact</string>
+    <string name="txt3">Double Row Angular</string>
+    <string name="txt4">self Aligning</string>
+    <string name="txt5">Self Aligning Taper</string>
+    <string name="txt6">Cylindrical Roller</string>
+    <string name="txt7">Double Row Cylindrical</string>
+    <string name="txt8">Double Row Cylindrical Tape</string>
+    <string name="txt9">Tapered Roller</string>
+    <string name="txt10">spherical</string>
+    <string name="txt11">Extra Small</string>
+    <string name="Bnumber">Bearing</string>
+    <string name="Bnum">Bearing Number</string>
+    <string name="ID">ID (mm.)</string>
+    <string name="OD">OD (mm.)</string>
+    <string name="Thick">Thick (mm.)</string>
+    <string name="textview">textview</string>
+    <string name="Type">bearingType</string>
+    <string name="about">About Us</string>
+    <string name="line1">Maruti Nandan Enterprice</string>
+    <string name="line2">mo. +91 90330344409</string>
+    <string name="line3">All kind of oil, chain oil, gear oil,haydrolic oil </string>
+    <string name="product">Products </string>
+    <string name="para1">MARUTI NANDAN ENTERPRISE \n
+Mo - 9033034409, 9898848336 \n
+Add - amarnagar road, \n opp .riddh complex , \n green park , \n jetpur-360370 \n \n \n
+MARUTI ENTERPRISE \n
+Mo - 9725747833, 8511555265 \n
+Add-rajkot national highway, \n rabarika chokadi, \n jetpur-360370 </string>
+
+    <string name="para2">
+    All kind of textile machinery spare parts.\n\n
+New Lucy centre machine.\n\n
+New Lucy printing machine.\n\n
+Authorised dealer of ASV saffron high temperature chain oil.\n\n
+Authorised dealer of Apar industrial lubricants\n\n
+Authorised dealer of hitech industrial oil\n\n
+Authorised dealer of larex lubrication\n\n
+All kind of bearings.\n\n
+Important blanket for printing machine.\n\n
+All kind of industrial motors and gearbox.\n\n
+Multinational thermic oil and food grade oil.\n\n
+New compressor.\n\n
+New B.M. head and B.M. Accessories.\n\n
+All kind of v belt.\n\n
+All kind of pneumatic product.\n\n
+All kind of cutting wheels.\n\n
+All kind of hyloam products.\n\n
+All kind of industrial oil.
+</string>
+
+    <string name="para3">
+    • Gear oil\n
+• Hydrolic oil\n
+• Engine oil\n
+• Compressor oil\n
+• Chain oil\n
+• Thermic oil\n
+• Food grade oil\n
+• C-oil\n
+    </string>
+    <string name="para4">
+        All type of industrial grease.
+    </string>
+    <string name="para5">
+        • Chasias grease\n
+• Ap-3 grease\n
+• High temperature grease\n
+• Waterproof grease\n
+• Automotive grease\n
+    </string>
+    <string name="para6">
+         All kind of industrial M.M. &amp; INCH bolt
+     </string>
+    <string name="para7">
+        • Foundation bolt\n
+• Stainless bolt\n
+• High temperature bolt\n
+• Allen key bolt\n
+• M.S. bolt\n
+    </string>
+    <string name="para8">
+        All type of power tools.
+    </string>
+    <string name="para9">
+        • Hand dhrill\n
+• Grinder\n
+• Blower\n
+• Screw driver\n
+    </string>
+    <string name="para10">
+        All type of hand tools.
+    </string>
+
+    <string name="para11">
+        • Hammer\n
+• All Spanners\n
+• Pliers\n
+• Lock pliers\n
+• Adjustable wrench\n
+• Pipe wrench\n
+• Tester\n
+• Measure tap\n
+• Gloves\n
+• File ( kanas)\n
+• Wheelbarrows ( rakado)\n
+• Chisel\n
+• Clamp\n
+• Puller\n
+• Grease gun\n
+• Oil cup ( kupi )\n
+• Sowel\n
+• Leval patti\n
+    </string>
+    <string name="para12">
+        All kind of Printing machine spare parts.
+    </string>
+
+    <string name="para13">
+        • head &amp;  all spare parts\n
+• Safting\n
+• Holders &amp; kan\n
+• Design setting assembly parts\n
+• Batching bracket &amp; break\n
+• Lifting parts\n
+• Chambers parts\n
+• Blanket\n
+• Gadi\n
+• Silky\n
+• Gland dori\n
+• Main roll pedistials\n
+• Printing machine all rolls\n
+• Hydrolic system\n
+• Gear box\n
+• Gear couple\n
+• Colling fan\n
+    </string>
+
+    <string name="para14">
+        All kind of Senter &amp; open senter spare parts.
+    </string>
+
+    <string name="para15">
+        • Link bottom\n
+• Clip &amp; panja\n
+• Pin bar\n
+• Brush assembly\n
+• Hydrolic system\n
+• Safting\n
+• Main roll\n
+• All Pully\n
+• Hub\n
+• 17 wheel gear chaker\n
+• All kind off ropes\n
+• Asbestos patti\n
+• Dr. Assembly Gear box\n
+• Daming bracket\n
+    </string>
+
+    <string name="para16">
+        All kind of boiler  parts.\n
+Authorised dealer of Arihant refractories
+    </string>
+
+    <string name="para17">
+        • heat-k &amp; super castable\n
+• Fire clay\n
+• Standard &amp; Tapper Bricks\n
+• Insulation\n
+• Chemical\n
+• Ceroual\n
+• Nozel\n
+• Boiler fan\n
+    </string>
+
+    <string name="para18">
+        Loop machine spare parts
+    </string>
+
+    <string name="para19">
+        • Loop road\n
+• Loop sleeves\n
+• Loop s.s. pin\n
+• Loop high temperature silicon tube\n
+• Loop special s.s. bolt\n
+    </string>
+
+    <string name="para20">
+        J box spare parts
+    </string>
+
+    <string name="para21">
+        • Jet ring\n
+• J box all pneumatics products\n
+    </string>
+
+    <string name="para22">
+        All kind of industrial electronics products.
+    </string>
+
+    <string name="para23">
+        • SMPS\n
+• Push button\n
+• Contactor\n
+• Relay\n
+• Limit switch\n
+• Frl unit\n
+• Cooling fan\n
+• Proxy\n
+• Air Max pull push Valve\n
+• Hand liver valve\n
+• Solenide valve\n
+• Pressure unit\n
+• reverse forward switch\n
+• Back circuit\n
+• Head socket\n
+• Pressure metre\n
+• SSR relay\n
+• Digital length metre\n
+• Digital speedometer\n
+• Centre machine dimmer\n
+• Temperature metre\n
+• Mogri switch\n
+• Toggle switch\n
+• Dry fan\n
+• Hikson controller\n
+• Air filter\n
+• Air regulator\n
+• Air lubricator\n
+    </string>
+
+    <string name="para24">
+        All kind of textile machinery rolls.
+    </string>
+
+    <string name="para25">
+        • Chudi roll\n
+• Ebonite roll\n
+• Dummy roll\n
+• Rubber roll\n
+• Winder roll\n
+• Brush roll\n
+• Banana roll\n
+• Mangal main roll\n
+    </string>
+
+    <string name="para26">
+        All kind of textile machinery pedestal.
+    </string>
+
+    <string name="para27">
+        • Pillow block\n
+• UC bearing\n
+• Ucfl pillow block\n
+• Ucf pillow block\n
+• Uct pillow block\n
+• Chudi roll pedestal\n
+• 6205 pedestal\n
+• 6309 pedestal\n
+• 6310 pedestal\n
+• 2209 pedestal\n
+• 12 13 k pedestal\n
+    </string>
+
+    <string name="para28">
+        All kind of chain for machine.
+    </string>
+
+    <string name="para29">
+        • Diamond chain\n
+• F a g chain\n
+• CK chain\n
+• CHJC chain\n
+• All type of diamond chain lock\n
+    </string>
+    <string name="bearing_number">bearing number</string>
+    <string name="inner_dimension">Inner Dimension</string>
+    <string name="outer_dimension">Outer Dimension</string>
+    <string name="thikness">Thikness</string>
+    <string name="design">designed by destiny devloper</string>
+
+
+</resources>
